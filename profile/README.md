@@ -1,0 +1,4 @@
+Useful links:
+- [Jobs](https://morpho.org/jobs/)
+- [Bug bounty](https://cantina.xyz/bounties/35a5f0a1-2ffd-432c-8f3b-77d169add8c3)
+- [Support](https://help.morpho.org/en/)
